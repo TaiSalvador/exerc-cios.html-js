@@ -1,13 +1,33 @@
 .titulo{
 text-align: center;
 margin: 70px;
-background-color:firebrick
+background-color:lightblue;
 }
 
 .jogos {
     text-align: center;
     margin:auto;
     border-style: solid;
-    border-radius: 40px;
+    border-radius: 25px;
+    margin: 70px;
 
+}
+.numero{
+    margin: 70px;
+}
+
+.somando{
+    text-align: center;
+    margin: auto;
+}
+
+.soma{
+    text-align: center;
+    margin: 70px;
+    font-size: 40px;
+    background-color: lightblue;
+}
+button{
+    margin-top: 50px;
+    padding: 10px;
 }
